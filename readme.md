@@ -9,3 +9,4 @@
 
 -  -- Or --
 - dotnet new console -o HelloCS
+- dotnet run
