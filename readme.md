@@ -10,3 +10,5 @@
 -  -- Or --
 - dotnet new console -o HelloCS
 - dotnet run
+- dotnet help new
+- dotnet new console -h
