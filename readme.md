@@ -13,6 +13,10 @@
 - dotnet help new
 - dotnet new console -h
 
+- -- Or --
+- dotnet new console -o TestCS
+- dotnet new mvc
+
 ========================================================================================
 -  ILSpy .NET  (Mircosoft Store)
 -  https://www.linqpad.net/
