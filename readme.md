@@ -12,3 +12,7 @@
 - dotnet run
 - dotnet help new
 - dotnet new console -h
+
+========================================================================================
+-  ILSpy .NET  (Mircosoft Store)
+-  https://www.linqpad.net/
