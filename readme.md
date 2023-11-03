@@ -5,6 +5,7 @@
 
 ========================================================================================
 - Create a new project folder
-- dotnet new console    or
-  
+- dotnet new console    
+
+-  -- Or --
 - dotnet new console -o HelloCS
