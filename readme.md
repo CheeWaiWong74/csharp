@@ -15,7 +15,8 @@
 
 - -- Or --
 - dotnet new console -o TestCS
-- dotnet new mvc
+- cd TestCS
+- dotnet new mvc --force
 
 ========================================================================================
 -  ILSpy .NET  (Mircosoft Store)
