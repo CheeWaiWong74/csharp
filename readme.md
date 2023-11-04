@@ -1,6 +1,8 @@
 - dotnet --list-sdks
 - dotnet --list-runtimes
 - dotnet --info
+- dotnet list package
+- dotnet remove package <PACKAGE_NAME>
 - dotnet-core-uninstall remove --all-previews-but-latest --sdk
 
 ========================================================================================
